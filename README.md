@@ -24,7 +24,7 @@
     </tbody>
 </table>
 
-<a href="http://teenplay.shop/"><img src="https://img.shields.io/badge/Teenplay-EE0000?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<a href="http://teenplay.info/"><img src="https://img.shields.io/badge/Teenplay-EE0000?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 
 
 ### ✍️기획 의도
